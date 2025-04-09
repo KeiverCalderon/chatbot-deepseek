@@ -24,7 +24,7 @@ def get_response(prompt):
     try:
         # Configuración del cliente OpenAI
         client = OpenAI(
-            api_key='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',
+            api_key='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',
             base_url='https://openrouter.ai/api/v1'
         ) 
         # Formato de los mensajes

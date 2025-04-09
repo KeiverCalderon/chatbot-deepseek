@@ -1,0 +1,36 @@
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de código de bytes de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de distribución
+dist/
+build/
+
+# Configuraciones de IDEs
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias de Node.js (si aplica)
+node_modules/
+
+# Archivos de secretos o configuraciones locales
+*.ini
+*.config
+.env
+.secrets
